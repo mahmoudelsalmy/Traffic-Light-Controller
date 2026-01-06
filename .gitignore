@@ -1,0 +1,17 @@
+# Xilinx / Vivado / ISE
+*.log
+*.wdb
+*.jou
+*.str
+*.ngc
+*.ngr
+*.xise
+*.bit
+*.cache
+*.runs
+*.sim
+*.ip_user_files
+
+# Temporary files
+*.tmp
+*.bak
